@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/containerapps-learnguide.props" />
+</Project>

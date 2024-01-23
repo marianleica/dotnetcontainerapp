@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qY2RbMHi0L9OV9Ok+Z8hz322swXdDczatclw2ib1Jlz7cmn6gLkI5tzoSfFm2fLhjWXznlb7MZgQU9AWZcBT9w==",
+  "success": true,
+  "projectFilePath": "/Users/marianleica/Build/azure/tmp/containerapps-learnguide/containerapps-learnguide.csproj",
+  "expectedPackageFiles": [
+    "/Users/marianleica/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "/Users/marianleica/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/marianleica/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/marianleica/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/marianleica/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/marianleica/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/marianleica/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
