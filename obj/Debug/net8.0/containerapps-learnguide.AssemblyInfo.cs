@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("containerapps-learnguide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+173227850f59f8e18218032b8328e98694f1498d")]
 [assembly: System.Reflection.AssemblyProductAttribute("containerapps-learnguide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("containerapps-learnguide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
